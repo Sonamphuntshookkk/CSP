@@ -1,0 +1,14 @@
+.table{
+    border-collapse: collapse;
+
+}
+
+.table td,th{
+    border: 2px outset black;
+}
+.table tr:hover{
+    background-color: aqua;
+}
+.table th{
+    background-color: blanchedalmond;
+}
